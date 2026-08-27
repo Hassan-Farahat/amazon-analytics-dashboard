@@ -1,4 +1,5 @@
 # Amazon Product & Pricing Intelligence Dashboard
+👉 **[Launch Live Dashboard](https://hassan-amazon-analytics.streamlit.app)**
 
 A Python-based business intelligence dashboard tracking Amazon e-commerce metrics, pricing correlations, and brand performance.
 

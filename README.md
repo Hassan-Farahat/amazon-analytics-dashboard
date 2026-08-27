@@ -13,3 +13,9 @@ A Python-based business intelligence dashboard tracking Amazon e-commerce metric
 * **Language:** Python
 * **Framework:** Streamlit
 * **Libraries:** Pandas (Data Cleaning), Plotly (Data Visualization)
+
+## 📂 Repository Structure
+* **`app.py`**: Interactive Streamlit application code.
+* **`data_cleaning.ipynb`**: Jupyter Notebook detailing raw data cleaning, text formatting, and missing value handling.
+* **`amazon-python.csv`**: Cleaned dataset powering the live dashboard.
+* **`requirements.txt`**: Required Python packages for deployment.
